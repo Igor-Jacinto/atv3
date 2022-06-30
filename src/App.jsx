@@ -5,14 +5,14 @@ function App(){
 
 	const titulo = [
 		{
-			ti: "Mais lidas",
+			ti: "Mais Lidas",
 		},
 	];
 
 	const conteiner = [
 		{
 			title: "1",
-			subtitle: "Funcionaria que denunciou procurador diz que agressor 'desprezava mulheres e teme sair na rua: 'Muiro medo'",
+			subtitle: "Funcionaria que denunciou procurador diz que agressor 'desprezava mulheres e teme sair na rua: 'Muito medo'",
 			
 		},
 		{
