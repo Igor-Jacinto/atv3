@@ -1,0 +1,27 @@
+.Principal{
+    margin-left: 100px;
+    background-color: #F5F5DC;
+    text-align: center;
+    width: 300px;
+    padding: 10px;
+ }
+
+ .cont{
+    
+    text-align: center;
+    justify-content: center;
+    margin-top: 20px;
+ }
+
+ .numerador{
+     font-family: Helvetica;
+    display: flex;
+ }
+
+ .subtitulo{
+     font-family: Helvetica;
+     text-align: center;
+     margin-left: 20px;
+ }
+
+
