@@ -1,11 +1,11 @@
 import "./Container.css";
 
-function Container({title, subtitle}){
+function Container({num, texto}){
 	
 	return( 
 		<div className='Principal'>
-		<p className='numerador'>{title}</p>
-		 <h5 className='subtitulo'>{subtitle}</h5>
+		<p className='numerador'>{num}</p>
+		 <h5 className='texto'>{texto}</h5>
 		 </div>
 	);
 }
